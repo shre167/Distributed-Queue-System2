@@ -1,4 +1,6 @@
 # Distributed Job Scheduler & Core Telemetry Console
+Github Repository - shre167/Distributed-Queue-System2
+Video Explanantion- https://youtu.be/7W3dONwG3wA
 
 A highly performant, distributed, and fault-tolerant asynchronous job scheduling platform designed with a clean, high-contrast, Swiss-inspired typographic theme. The system separates the **REST API Ingestion Tier** from a **Concurrent Background Execution Pool**, utilizing a normalized, transactional coordinator schema to guarantee strict execution bounds, order state consistency, and prevent double-execution race conditions.
 
