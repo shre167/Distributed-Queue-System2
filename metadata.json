@@ -1,0 +1,6 @@
+{
+  "name": "Distributed Job Scheduler",
+  "description": "A production-inspired distributed background job scheduling dashboard with atomic queue claiming, configurable retry policies, dead letter queue support, and smart Gemini failure diagnosis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
